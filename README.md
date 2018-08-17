@@ -1,6 +1,6 @@
 
 ## 简历（响应式web版、psd版）
-- 网页版简历 http://resume.toadw.cn
+
 
 该项目的项目源自[@ Cong Min](https://congm.in) 的简历的启发
 
